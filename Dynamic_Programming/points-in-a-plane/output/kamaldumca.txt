@@ -1,0 +1,11 @@
+Starting audit...
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\kamaldumca.java:1: The name of the outer type and the file do not match. [OuterTypeFilename]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\kamaldumca.java:2:1: '{' at column 1 should be on the previous line. [LeftCurly]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\kamaldumca.java:3: 'method def modifier' has incorrect indentation level 4, expected level should be 2. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\kamaldumca.java:3:37: Array brackets at illegal position. [ArrayTypeStyle]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\kamaldumca.java:4: 'method def lcurly' has incorrect indentation level 4, expected level should be 2. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\kamaldumca.java:4:5: '{' at column 5 should be on the previous line. [LeftCurly]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\kamaldumca.java:5: 'method def' child has incorrect indentation level 8, expected level should be 4. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\kamaldumca.java:6: 'method def' child has incorrect indentation level 12, expected level should be 4. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\kamaldumca.java:7: 'method def rcurly' has incorrect indentation level 4, expected level should be 2. [Indentation]
+Audit done.

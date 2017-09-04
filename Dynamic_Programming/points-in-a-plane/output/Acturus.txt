@@ -1,0 +1,16 @@
+Starting audit...
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:7: The name of the outer type and the file do not match. [OuterTypeFilename]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:9: 'method def modifier' has incorrect indentation level 1, expected level should be 2. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:9:2: Missing a Javadoc comment. [JavadocMethod]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:9:37: Array brackets at illegal position. [ArrayTypeStyle]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:10: 'try' has incorrect indentation level 5, expected level should be 4. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:11: 'try' child has incorrect indentation level 9, expected level should be 6. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:12: 'new' has incorrect indentation level 11, expected level should be 13. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:13: 'try' child has incorrect indentation level 9, expected level should be 6. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:15: 'try' child has incorrect indentation level 9, expected level should be 6. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:16: 'try rcurly' has incorrect indentation level 5, expected level should be 4. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:17: 'catch' child has incorrect indentation level 9, expected level should be 6. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:18: 'catch rcurly' has incorrect indentation level 5, expected level should be 4. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:19: 'method def rcurly' has incorrect indentation level 1, expected level should be 2. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\points-in-a-plane\java\Acturus.java:21: 'class def rcurly' has incorrect indentation level 4, expected level should be 0. [Indentation]
+Audit done.

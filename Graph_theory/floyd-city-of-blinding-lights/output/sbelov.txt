@@ -1,0 +1,8 @@
+Starting audit...
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\sbelov.java:1: Using the '.*' form of import should be avoided - java.util.*. [AvoidStarImport]
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\sbelov.java:3: The name of the outer type and the file do not match. [OuterTypeFilename]
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\sbelov.java:71:3: Missing a Javadoc comment. [JavadocMethod]
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\sbelov.java:86:3: Missing a Javadoc comment. [JavadocMethod]
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\sbelov.java:92:3: Missing a Javadoc comment. [JavadocMethod]
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\sbelov.java:118:3: Missing a Javadoc comment. [JavadocMethod]
+Audit done.

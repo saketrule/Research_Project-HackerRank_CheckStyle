@@ -1,0 +1,13 @@
+Starting audit...
+[WARN] F:\DATABASE_HACKERRANK\Greedy\sherlock-and-minimax\java\cederber.java:3: Wrong lexicographical order for 'java.io.IOException' import. Should be before 'java.io.InputStreamReader'. [CustomImportOrder]
+[WARN] F:\DATABASE_HACKERRANK\Greedy\sherlock-and-minimax\java\cederber.java:8: The name of the outer type and the file do not match. [OuterTypeFilename]
+[WARN] F:\DATABASE_HACKERRANK\Greedy\sherlock-and-minimax\java\cederber.java:11:16: Member name 'p' must match pattern '^[a-z][a-z0-9][a-zA-Z0-9]*$'. [MemberName]
+[WARN] F:\DATABASE_HACKERRANK\Greedy\sherlock-and-minimax\java\cederber.java:12:16: Member name 'q' must match pattern '^[a-z][a-z0-9][a-zA-Z0-9]*$'. [MemberName]
+[WARN] F:\DATABASE_HACKERRANK\Greedy\sherlock-and-minimax\java\cederber.java:20:3: Missing a Javadoc comment. [JavadocMethod]
+[WARN] F:\DATABASE_HACKERRANK\Greedy\sherlock-and-minimax\java\cederber.java:78:41: WhitespaceAround: '+' is not preceded with whitespace. [WhitespaceAround]
+[WARN] F:\DATABASE_HACKERRANK\Greedy\sherlock-and-minimax\java\cederber.java:78:42: WhitespaceAround: '+' is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3) [WhitespaceAround]
+[WARN] F:\DATABASE_HACKERRANK\Greedy\sherlock-and-minimax\java\cederber.java:83:47: WhitespaceAround: '+' is not preceded with whitespace. [WhitespaceAround]
+[WARN] F:\DATABASE_HACKERRANK\Greedy\sherlock-and-minimax\java\cederber.java:83:48: WhitespaceAround: '+' is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3) [WhitespaceAround]
+[WARN] F:\DATABASE_HACKERRANK\Greedy\sherlock-and-minimax\java\cederber.java:89:36: WhitespaceAround: '+' is not preceded with whitespace. [WhitespaceAround]
+[WARN] F:\DATABASE_HACKERRANK\Greedy\sherlock-and-minimax\java\cederber.java:89:37: WhitespaceAround: '+' is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3) [WhitespaceAround]
+Audit done.

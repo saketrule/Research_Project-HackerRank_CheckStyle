@@ -1,0 +1,14 @@
+Starting audit...
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\turn-off-the-lights\java\sahil56.java:3: The name of the outer type and the file do not match. [OuterTypeFilename]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\turn-off-the-lights\java\sahil56.java:4: 'method def modifier' has incorrect indentation level 4, expected level should be 2. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\turn-off-the-lights\java\sahil56.java:4:5: Missing a Javadoc comment. [JavadocMethod]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\turn-off-the-lights\java\sahil56.java:5: 'method def' child has incorrect indentation level 8, expected level should be 4. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\turn-off-the-lights\java\sahil56.java:6: 'method def' child has incorrect indentation level 8, expected level should be 4. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\turn-off-the-lights\java\sahil56.java:7: 'method def' child has incorrect indentation level 8, expected level should be 4. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\turn-off-the-lights\java\sahil56.java:8: 'method def' child has incorrect indentation level 8, expected level should be 4. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\turn-off-the-lights\java\sahil56.java:9: 'for' has incorrect indentation level 8, expected level should be 4. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\turn-off-the-lights\java\sahil56.java:10: 'for' child has incorrect indentation level 12, expected level should be 6. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\turn-off-the-lights\java\sahil56.java:11: 'for rcurly' has incorrect indentation level 8, expected level should be 4. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\turn-off-the-lights\java\sahil56.java:12: 'method def' child has incorrect indentation level 8, expected level should be 4. [Indentation]
+[WARN] F:\DATABASE_HACKERRANK\Dynamic_Programming\turn-off-the-lights\java\sahil56.java:13: 'method def rcurly' has incorrect indentation level 4, expected level should be 2. [Indentation]
+Audit done.

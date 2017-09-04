@@ -1,0 +1,10 @@
+Starting audit...
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\gjigandi.java:9: The name of the outer type and the file do not match. [OuterTypeFilename]
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\gjigandi.java:10:21: Member name 'N' must match pattern '^[a-z][a-z0-9][a-zA-Z0-9]*$'. [MemberName]
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\gjigandi.java:14:3: Missing a Javadoc comment. [JavadocMethod]
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\gjigandi.java:14:23: Parameter name 'N' must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$'. [ParameterName]
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\gjigandi.java:59:3: Missing a Javadoc comment. [JavadocMethod]
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\gjigandi.java:62:9: Local variable name 'N' must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$'. [LocalVariableName]
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\gjigandi.java:63:9: Local variable name 'M' must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$'. [LocalVariableName]
+[WARN] F:\DATABASE_HACKERRANK\Graph_theory\floyd-city-of-blinding-lights\java\gjigandi.java:78:9: Local variable name 'Q' must match pattern '^[a-z]([a-z0-9][a-zA-Z0-9]*)?$'. [LocalVariableName]
+Audit done.

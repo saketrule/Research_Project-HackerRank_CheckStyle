@@ -1,0 +1,5 @@
+Starting audit...
+[WARN] F:\DATABASE_HACKERRANK\Greedy\reverse-shuffle-merge\java\AbdelrahmanNabil.java:3: The name of the outer type and the file do not match. [OuterTypeFilename]
+[WARN] F:\DATABASE_HACKERRANK\Greedy\reverse-shuffle-merge\java\AbdelrahmanNabil.java:62: 'if' construct must use '{}'s. [NeedBraces]
+[WARN] F:\DATABASE_HACKERRANK\Greedy\reverse-shuffle-merge\java\AbdelrahmanNabil.java:67:3: Missing a Javadoc comment. [JavadocMethod]
+Audit done.
