@@ -1,3 +1,15 @@
+/*
+Raw analysis of styling violations is listed.
+The google Java styling convention is followed : https://google.github.io/styleguide/javaguide.html
+The dataset is code mined from HackerRank of competitive coders.
+I think it is an important read for any Java coder, especially an amateur to identify the most common convention violations, since industry standards are usually strict (And a lot of code is still written in Java).
+May compare this to a dataset of professionally written code.
+Further expansion of important categories such as Intendation violations will be added
+Raw output files of data available at  <categoryfolder>/<problemfolder>/output
+
+Simple, but such a study hasn't been done(that I can find)
+*/
+
 // Sorted raw analysis:
 // Find out which genuine errors are most common.
 // See if further types can be found:-
